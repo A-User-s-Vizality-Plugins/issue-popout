@@ -1,7 +1,8 @@
 {
     "name": "Issue Popout",
     "version": "1.0.0",
-    "description": "Fixes user popout's issue where it can go",
+    "description": "Fixes user popout's issue where it can go out of bounds",
     "author": "A user",
+    "icon": "icon.png",
     "license": "MIT"
 }
